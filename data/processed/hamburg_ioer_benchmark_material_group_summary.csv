@@ -1,0 +1,89 @@
+ioer_variant_type,ioer_reference_typ,ioer_material_group_id,ioer_material_group_name,ioer_reference_intensity_t_per_m2_BGF,hamburg_benchmark_stock_t
+IÖR_EFH_Hamburg,EFH-Hamburg,1,Standardbeton,0.5102951805975594,15355091.646598566
+IÖR_EFH_Hamburg,EFH-Hamburg,2,Leichtbeton,0.0,0.0
+IÖR_EFH_Hamburg,EFH-Hamburg,3,Ziegelsteine,0.10608507369969919,3192164.2432293217
+IÖR_EFH_Hamburg,EFH-Hamburg,4,Ziegelsteine mit Dämmung,0.0,0.0
+IÖR_EFH_Hamburg,EFH-Hamburg,5,Ziegeldeckung,0.004533494809121502,136415.6098671324
+IÖR_EFH_Hamburg,EFH-Hamburg,8,"Kalkhaltige Putze, Mörtel",0.09498106947509152,2858038.017868164
+IÖR_EFH_Hamburg,EFH-Hamburg,9,"Gips-/anhydrithaltige Putze, Mörtel",0.03274952916062763,985453.205840066
+IÖR_EFH_Hamburg,EFH-Hamburg,10,"Ton-/lehmhaltige Putze, Mörtel",0.0,0.0
+IÖR_EFH_Hamburg,EFH-Hamburg,11,"Putze, Mörtel mit synthetischen Anteilen",0.0,0.0
+IÖR_EFH_Hamburg,EFH-Hamburg,12,Kalkhaltige Estriche,0.05531574378826301,1664484.2978416183
+IÖR_EFH_Hamburg,EFH-Hamburg,13,Gips-/anhydrithaltige Estriche,0.012577026425226847,378450.357252007
+IÖR_EFH_Hamburg,EFH-Hamburg,14,Trockenestrich (gips-/anhydrithaltig),0.0,0.0
+IÖR_EFH_Hamburg,EFH-Hamburg,15,Estriche mit synthetischen Anteilen,0.0,0.0
+IÖR_EFH_Hamburg,EFH-Hamburg,16,Kalksandsteine,0.28236465578687925,8496523.839971174
+IÖR_EFH_Hamburg,EFH-Hamburg,17,Porenbetonsteine,0.01674340223002682,503819.13350025564
+IÖR_EFH_Hamburg,EFH-Hamburg,18,Betonsteine,0.009296464730458802,279736.26511319797
+IÖR_EFH_Hamburg,EFH-Hamburg,19,Lehmsteine,0.0,0.0
+IÖR_EFH_Hamburg,EFH-Hamburg,20,Gips-/Gipskartonplatten,0.0015678962625715188,47178.949987264525
+IÖR_EFH_Hamburg,EFH-Hamburg,21,Mineralische Bauplatten,6.940092706352015e-05,2088.3160099058396
+IÖR_EFH_Hamburg,EFH-Hamburg,22,Mineralische Wärmedämmstoffe,0.007180491733587168,216065.3536014359
+IÖR_EFH_Hamburg,EFH-Hamburg,23,Betondachsteindeckung,0.007695887328138079,231573.91979899368
+IÖR_EFH_Hamburg,EFH-Hamburg,24,Faserzementdeckung,0.0,0.0
+IÖR_EFH_Hamburg,EFH-Hamburg,25,Schieferdeckung,0.0,0.0
+IÖR_EFH_Hamburg,EFH-Hamburg,26,"Substratschicht (""Gründach"")",0.0,0.0
+IÖR_EFH_Hamburg,EFH-Hamburg,27,Mineralische Schüttungen,0.08801308150153092,2648367.0313593405
+IÖR_EFH_Hamburg,EFH-Hamburg,28,Glas,0.003811674722194525,114695.60542940324
+IÖR_EFH_Hamburg,EFH-Hamburg,29,Natursteine,0.02527141764706046,760432.292454423
+IÖR_EFH_Hamburg,EFH-Hamburg,30,Sonstige mineralische Baustoffe,0.0006700264734862059,20161.50317936554
+IÖR_EFH_Hamburg,EFH-Hamburg,31,Schnittholz,0.02491477647068315,749700.743036667
+IÖR_EFH_Hamburg,EFH-Hamburg,32,Verarbeitetes Holz,0.0014098896867329167,42424.43623715134
+IÖR_EFH_Hamburg,EFH-Hamburg,33,Nachwachsende Wärmedämmstoffe,0.0030109326116479884,90600.78940872509
+IÖR_EFH_Hamburg,EFH-Hamburg,34,Stroh-/Schilfdeckung,0.0,0.0
+IÖR_EFH_Hamburg,EFH-Hamburg,35,Sonstige Materialien (nicht mineralisch),5.3967068338268814e-05,1623.901835134594
+IÖR_EFH_Hamburg,EFH-Hamburg,36,Erdölbasierte Wärmedämmstoffe,0.0007361089718463652,22149.965655865082
+IÖR_EFH_Hamburg,EFH-Hamburg,37,Kunststoffdachdeckung,0.0001287504266944885,3874.1784688584876
+IÖR_EFH_Hamburg,EFH-Hamburg,38,"Erdölbasierte Beläge, Dichtungsbahnen",0.0019373843118888022,58297.069607652615
+IÖR_EFH_Hamburg,EFH-Hamburg,39,Bitumendachdeckung,0.0006353584007454171,19118.319832968395
+IÖR_EFH_Hamburg,EFH-Hamburg,40,"Bitumenhaltige Beläge, Dichtungsbahnen",0.0,0.0
+IÖR_EFH_Hamburg,EFH-Hamburg,41,Metalldachdeckung,0.0,0.0
+IÖR_EFH_Hamburg,EFH-Hamburg,42,Eisenmetalle,0.05253847668815754,1580914.6454705212
+IÖR_EFH_Hamburg,EFH-Hamburg,43,"Aluminiumhaltige Beläge, Dichtungsbahnen",0.0,0.0
+IÖR_EFH_Hamburg,EFH-Hamburg,44,Aluminium,0.00018123884234069455,5453.586747198272
+IÖR_EFH_Hamburg,EFH-Hamburg,45,Kupfer,0.0,0.0
+IÖR_EFH_Hamburg,EFH-Hamburg,46,Sonstige Nichteisenmetalle,0.0,0.0
+IÖR_MFH_Hamburg,MFH-Hamburg,1,Standardbeton,0.5306777513488764,45382179.410491794
+IÖR_MFH_Hamburg,MFH-Hamburg,2,Leichtbeton,0.014316353627694445,1224297.282455614
+IÖR_MFH_Hamburg,MFH-Hamburg,3,Ziegelsteine,0.23512062561708788,20106903.64866426
+IÖR_MFH_Hamburg,MFH-Hamburg,4,Ziegelsteine mit Dämmung,0.0,0.0
+IÖR_MFH_Hamburg,MFH-Hamburg,5,Ziegeldeckung,0.004005650870784255,342552.83175460575
+IÖR_MFH_Hamburg,MFH-Hamburg,8,"Kalkhaltige Putze, Mörtel",0.11312313739031966,9673996.13697024
+IÖR_MFH_Hamburg,MFH-Hamburg,9,"Gips-/anhydrithaltige Putze, Mörtel",0.037210523185307785,3182147.0466053193
+IÖR_MFH_Hamburg,MFH-Hamburg,10,"Ton-/lehmhaltige Putze, Mörtel",0.0,0.0
+IÖR_MFH_Hamburg,MFH-Hamburg,11,"Putze, Mörtel mit synthetischen Anteilen",0.0,0.0
+IÖR_MFH_Hamburg,MFH-Hamburg,12,Kalkhaltige Estriche,0.044521900217674965,3807396.9715874144
+IÖR_MFH_Hamburg,MFH-Hamburg,13,Gips-/anhydrithaltige Estriche,0.016219754526930506,1387071.1709023798
+IÖR_MFH_Hamburg,MFH-Hamburg,14,Trockenestrich (gips-/anhydrithaltig),0.0,0.0
+IÖR_MFH_Hamburg,MFH-Hamburg,15,Estriche mit synthetischen Anteilen,0.0,0.0
+IÖR_MFH_Hamburg,MFH-Hamburg,16,Kalksandsteine,0.09489013806287654,8114757.513217241
+IÖR_MFH_Hamburg,MFH-Hamburg,17,Porenbetonsteine,0.0032318256408038607,276377.3131275779
+IÖR_MFH_Hamburg,MFH-Hamburg,18,Betonsteine,0.0,0.0
+IÖR_MFH_Hamburg,MFH-Hamburg,19,Lehmsteine,0.0,0.0
+IÖR_MFH_Hamburg,MFH-Hamburg,20,Gips-/Gipskartonplatten,0.0013588159684857297,116202.40326808937
+IÖR_MFH_Hamburg,MFH-Hamburg,21,Mineralische Bauplatten,0.0018629759415116278,159316.8513287227
+IÖR_MFH_Hamburg,MFH-Hamburg,22,Mineralische Wärmedämmstoffe,0.00729680343426903,624003.6288225488
+IÖR_MFH_Hamburg,MFH-Hamburg,23,Betondachsteindeckung,0.0,0.0
+IÖR_MFH_Hamburg,MFH-Hamburg,24,Faserzementdeckung,0.0,0.0
+IÖR_MFH_Hamburg,MFH-Hamburg,25,Schieferdeckung,0.0002355045057004789,20139.732073773146
+IÖR_MFH_Hamburg,MFH-Hamburg,26,"Substratschicht (""Gründach"")",0.0,0.0
+IÖR_MFH_Hamburg,MFH-Hamburg,27,Mineralische Schüttungen,0.07283383410693657,6228559.833521183
+IÖR_MFH_Hamburg,MFH-Hamburg,28,Glas,0.0017353821776846267,148405.3649003577
+IÖR_MFH_Hamburg,MFH-Hamburg,29,Natursteine,0.020660105971985837,1766798.4638082574
+IÖR_MFH_Hamburg,MFH-Hamburg,30,Sonstige mineralische Baustoffe,0.000664809761980397,56852.79967994492
+IÖR_MFH_Hamburg,MFH-Hamburg,31,Schnittholz,0.012154088588166658,1039386.0068138017
+IÖR_MFH_Hamburg,MFH-Hamburg,32,Verarbeitetes Holz,0.00022927716046255975,19607.185725032414
+IÖR_MFH_Hamburg,MFH-Hamburg,33,Nachwachsende Wärmedämmstoffe,0.0001177174627350954,10066.890876832385
+IÖR_MFH_Hamburg,MFH-Hamburg,34,Stroh-/Schilfdeckung,3.314846189763872e-05,2834.7701428913615
+IÖR_MFH_Hamburg,MFH-Hamburg,35,Sonstige Materialien (nicht mineralisch),6.854079526295131e-05,5861.430330656756
+IÖR_MFH_Hamburg,MFH-Hamburg,36,Erdölbasierte Wärmedämmstoffe,0.00047595675435929626,40702.582241419026
+IÖR_MFH_Hamburg,MFH-Hamburg,37,Kunststoffdachdeckung,0.0,0.0
+IÖR_MFH_Hamburg,MFH-Hamburg,38,"Erdölbasierte Beläge, Dichtungsbahnen",0.0011190072429304422,95694.5855205523
+IÖR_MFH_Hamburg,MFH-Hamburg,39,Bitumendachdeckung,0.0016397701371836475,140228.87217050424
+IÖR_MFH_Hamburg,MFH-Hamburg,40,"Bitumenhaltige Beläge, Dichtungsbahnen",0.0,0.0
+IÖR_MFH_Hamburg,MFH-Hamburg,41,Metalldachdeckung,8.00633850087357e-05,6846.8122008922055
+IÖR_MFH_Hamburg,MFH-Hamburg,42,Eisenmetalle,0.05956151537814634,5093545.69695307
+IÖR_MFH_Hamburg,MFH-Hamburg,43,"Aluminiumhaltige Beläge, Dichtungsbahnen",0.0,0.0
+IÖR_MFH_Hamburg,MFH-Hamburg,44,Aluminium,0.0,0.0
+IÖR_MFH_Hamburg,MFH-Hamburg,45,Kupfer,0.0,0.0
+IÖR_MFH_Hamburg,MFH-Hamburg,46,Sonstige Nichteisenmetalle,0.0,0.0

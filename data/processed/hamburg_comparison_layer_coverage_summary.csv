@@ -1,0 +1,5 @@
+comparison_layer,building_count,covered_estimated_gfa_m2,total_material_stock_t,share_of_residential_buildings_pct,share_of_residential_gfa_pct
+primary,157065,96121361.0,171307509.87938407,69.09,73.89
+ortlepp_sensitivity,82391,77464534.0,173618287.4826,36.24,59.55
+ioer_benchmark,206167,115608002.83,149537630.46136296,90.69,88.87
+unassigned_residential,70269,33963973.83,,30.91,26.11

@@ -1,0 +1,43 @@
+source,material_column,material,material_stock_t,total_stock_t,material_fraction_pct
+Cascade assignment - full cascade scope,concrete_stock_t,Concrete,75176528.20183343,171307509.87938407,43.88
+Cascade assignment - full cascade scope,brick_stock_t,Brick,45910429.26506922,171307509.87938407,26.8
+Cascade assignment - full cascade scope,plaster_board_gypsum_stock_t,Plaster Board Gypsum,18497627.244,171307509.87938407,10.8
+Cascade assignment - full cascade scope,mortar_plaster_stock_t,Mortar Plaster,12213560.377448313,171307509.87938407,7.13
+Cascade assignment - full cascade scope,unspecified_metal_stock_t,Unspecified Metal,7450762.485816015,171307509.87938407,4.35
+Cascade assignment - full cascade scope,mineral_fill_stock_t,Mineral Fill,5621379.738,171307509.87938407,3.28
+Cascade assignment - full cascade scope,other_unspecified_material_stock_t,Other Unspecified Material,3066427.952864254,171307509.87938407,1.79
+Cascade assignment - full cascade scope,wood_stock_t,Wood,1942985.6296266802,171307509.87938407,1.13
+Cascade assignment - full cascade scope,insulation_unspecified_stock_t,Insulation Unspecified,1336641.7224067058,171307509.87938407,0.78
+Cascade assignment - full cascade scope,bitumen_stock_t,Bitumen,91167.26231945842,171307509.87938407,0.05
+IÖR benchmark - full benchmark scope,ioer_material_group_1_stock_t,Standardbeton,60737271.0570964,149537630.46136293,40.62
+IÖR benchmark - full benchmark scope,ioer_material_group_3_stock_t,Ziegelsteine,23299067.89189347,149537630.46136293,15.58
+IÖR benchmark - full benchmark scope,ioer_material_group_16_stock_t,Kalksandsteine,16611281.353188952,149537630.46136293,11.11
+IÖR benchmark - full benchmark scope,ioer_material_group_8_stock_t,"Kalkhaltige Putze, Mörtel",12532034.154838268,149537630.46136293,8.38
+IÖR benchmark - full benchmark scope,ioer_material_group_27_stock_t,Mineralische Schüttungen,8876926.864880513,149537630.46136293,5.94
+IÖR benchmark - full benchmark scope,ioer_material_group_42_stock_t,Eisenmetalle,6674460.3424235005,149537630.46136293,4.46
+IÖR benchmark - full benchmark scope,ioer_material_group_12_stock_t,Kalkhaltige Estriche,5471881.269429033,149537630.46136293,3.66
+IÖR benchmark - full benchmark scope,ioer_material_group_9_stock_t,"Gips-/anhydrithaltige Putze, Mörtel",4167600.2524452135,149537630.46136293,2.79
+IÖR benchmark - full benchmark scope,ioer_material_group_29_stock_t,Natursteine,2527230.7562626977,149537630.46136293,1.69
+IÖR benchmark - full benchmark scope,ioer_material_group_31_stock_t,Schnittholz,1789086.7498499907,149537630.46136293,1.2
+IÖR benchmark - full benchmark scope,ioer_material_group_13_stock_t,Gips-/anhydrithaltige Estriche,1765521.5281543303,149537630.46136293,1.18
+IÖR benchmark - full benchmark scope,ioer_material_group_2_stock_t,Leichtbeton,1224297.2824555826,149537630.46136293,0.82
+IÖR benchmark - full benchmark scope,ioer_material_group_22_stock_t,Mineralische Wärmedämmstoffe,840068.9824239812,149537630.46136293,0.56
+IÖR benchmark - full benchmark scope,ioer_material_group_17_stock_t,Porenbetonsteine,780196.4466278597,149537630.46136293,0.52
+IÖR benchmark - full benchmark scope,ioer_material_group_5_stock_t,Ziegeldeckung,478968.441621723,149537630.46136293,0.32
+IÖR benchmark - full benchmark scope,ioer_material_group_18_stock_t,Betonsteine,279736.26511319773,149537630.46136293,0.19
+IÖR benchmark - full benchmark scope,ioer_material_group_28_stock_t,Glas,263100.97032980353,149537630.46136293,0.18
+IÖR benchmark - full benchmark scope,ioer_material_group_23_stock_t,Betondachsteindeckung,231573.91979898216,149537630.46136293,0.15
+IÖR benchmark - full benchmark scope,ioer_material_group_20_stock_t,Gips-/Gipskartonplatten,163381.3532553837,149537630.46136293,0.11
+IÖR benchmark - full benchmark scope,ioer_material_group_21_stock_t,Mineralische Bauplatten,161405.1673386286,149537630.46136293,0.11
+IÖR benchmark - full benchmark scope,ioer_material_group_39_stock_t,Bitumendachdeckung,159347.19200347626,149537630.46136293,0.11
+IÖR benchmark - full benchmark scope,ioer_material_group_38_stock_t,"Erdölbasierte Beläge, Dichtungsbahnen",153991.65512820685,149537630.46136293,0.1
+IÖR benchmark - full benchmark scope,ioer_material_group_33_stock_t,Nachwachsende Wärmedämmstoffe,100667.68028555709,149537630.46136293,0.07
+IÖR benchmark - full benchmark scope,ioer_material_group_30_stock_t,Sonstige mineralische Baustoffe,77014.3028593082,149537630.46136293,0.05
+IÖR benchmark - full benchmark scope,ioer_material_group_36_stock_t,Erdölbasierte Wärmedämmstoffe,62852.54789728318,149537630.46136293,0.04
+IÖR benchmark - full benchmark scope,ioer_material_group_32_stock_t,Verarbeitetes Holz,62031.621962184334,149537630.46136293,0.04
+IÖR benchmark - full benchmark scope,ioer_material_group_25_stock_t,Schieferdeckung,20139.732073772113,149537630.46136293,0.01
+IÖR benchmark - full benchmark scope,ioer_material_group_35_stock_t,Sonstige Materialien (nicht mineralisch),7485.332165791319,149537630.46136293,0.01
+IÖR benchmark - full benchmark scope,ioer_material_group_41_stock_t,Metalldachdeckung,6846.812200892515,149537630.46136293,0.0
+IÖR benchmark - full benchmark scope,ioer_material_group_44_stock_t,Aluminium,5453.5867471981965,149537630.46136293,0.0
+IÖR benchmark - full benchmark scope,ioer_material_group_37_stock_t,Kunststoffdachdeckung,3874.1784688585903,149537630.46136293,0.0
+IÖR benchmark - full benchmark scope,ioer_material_group_34_stock_t,Stroh-/Schilfdeckung,2834.7701428912815,149537630.46136293,0.0

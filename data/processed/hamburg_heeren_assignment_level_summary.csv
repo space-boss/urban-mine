@@ -1,0 +1,8 @@
+assignment_level,building_count,residential_buildings,total_estimated_gfa_m2,residential_estimated_gfa_m2,total_material_stock_t,share_of_all_buildings_pct,share_of_residential_buildings_pct,share_of_residential_estimated_gfa_pct,share_of_assigned_material_stock_pct
+not_residential_no_material_intensity,151986,0,89989930.0,0.0,0.0,40.07,0.0,0.0,0.0
+3_gruhler_fallback_average,75118,75118,19910583.0,19910583.0,25037807.814189095,19.8,33.04,15.31,14.62
+unresolved_no_material_intensity,70269,70269,33963973.83,33963973.83,0.0,18.52,30.91,26.11,0.0
+4_ortlepp_period_mfh_fallback,41534,41534,46461742.0,46461742.0,103561686.4,10.95,18.27,35.72,60.45
+1_gruhler_specific_typology,23231,23231,17968763.0,17968763.0,21922809.100934047,6.12,10.22,13.81,12.8
+2_gruhler_candidate_average,9999,9999,7955438.0,7955438.0,11566589.247260936,2.64,4.4,6.12,6.75
+5_ortlepp_general_mfh_average,7183,7183,3824835.0,3824835.0,9218617.317,1.89,3.16,2.94,5.38

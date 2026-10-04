@@ -1,0 +1,5 @@
+confidence_tier,building_count,residential_buildings,total_estimated_gfa_m2,residential_estimated_gfa_m2,total_material_stock_t,share_of_all_buildings_pct,share_of_residential_buildings_pct,share_of_residential_estimated_gfa_pct,share_of_assigned_material_stock_pct,confidence_label
+D_unassigned,222255,70269,123953903.83,33963973.83,0.0,58.59,30.91,26.11,0.0,D - Unassigned
+C_fallback,118280,118280,73374750.0,73374750.0,143381541.39435527,31.18,52.03,56.41,83.7,C - Fallback estimate
+B_representative,31224,31224,9422618.0,9422618.0,12688108.317201665,8.23,13.73,7.24,7.41,B - Representative match
+A_direct,7561,7561,13323993.0,13323993.0,15237860.167827142,1.99,3.33,10.24,8.9,A - Direct match

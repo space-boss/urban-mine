@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local/raw datasets
+data/raw/*
+!data/raw/Attachment 1_Heeren_typology_assignment_working_template - Heeren_typology_assignment_working_template.csv
+
+
+# Generated/intermediate outputs
+data/processed/*.gpkg
+data/processed/.DS_Store
+notebooks/08_result_scatter_plots.ipynb
+*.gpkg
+*.zip
+*.numbers
